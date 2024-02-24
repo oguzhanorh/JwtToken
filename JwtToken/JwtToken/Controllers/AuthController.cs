@@ -20,5 +20,21 @@ namespace JwtToken.Controllers
 
             return Ok(user);
         }
+
+
+        [HttpPost("login")]
+        public ActionResult<User>Login(UserDto request)
+        {
+            if(user.UserName !=request.UserName)
+            {
+                return BadRequest("User not found");
+
+            }
+            if(!BCrypt.Net.BCrypt.Verify(request.Password,user.Passwordhash))
+            {
+                return BadRequest("Wrong password");
+            }
+            return Ok(user);
+        }
     }
 }
