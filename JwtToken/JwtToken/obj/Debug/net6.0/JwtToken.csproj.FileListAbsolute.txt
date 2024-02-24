@@ -6,10 +6,15 @@ E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\JwtToken.runtimeconfig.json
 E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\JwtToken.dll
 E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\JwtToken.pdb
 E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\BCrypt.Net-Next.dll
+E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
 E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Microsoft.OpenApi.dll
 E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
 E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\C#\jwt\JwtToken\JwtToken\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
 E:\C#\jwt\JwtToken\JwtToken\obj\Debug\net6.0\JwtToken.csproj.AssemblyReference.cache
 E:\C#\jwt\JwtToken\JwtToken\obj\Debug\net6.0\JwtToken.GeneratedMSBuildEditorConfig.editorconfig
 E:\C#\jwt\JwtToken\JwtToken\obj\Debug\net6.0\JwtToken.AssemblyInfoInputs.cache
